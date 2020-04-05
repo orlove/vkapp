@@ -1,0 +1,9 @@
+.BluredCityChart {
+  filter: blur(3px);
+  z-index: -1;
+}
+
+.SignGroup {
+  margin-top: 140px;
+  margin-bottom: -220px;
+}
